@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    background-color: #D6FDFF;
+}
+
+h1{
+    text-shadow: 2px 2px 2px;
+}
+
+img{
+    border-radius: 10%;
+    width: 400px;
+    height: 200px;
+}
+
